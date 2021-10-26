@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahplshelpIdontknowhowtodoanything
 - 👀 I’m interested in c++ and opengl game development, and I'm currently learning how to make a game engine
 - 🌱 I’m currently learning c++ and opengl
-- 💞️ I’m looking to collaborate on a c++ game engine that uses OpenGL
+- 💞️ I’m looking to collaborate on a c++ game engine that uses OpenGL ideally with glfw and maybe openal for 3d audio later on?
 - 📫 How to reach me: be a friend. Or dm me via le discord which I will not link hehehehehehehe
 
 <!---
